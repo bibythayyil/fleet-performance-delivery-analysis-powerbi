@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bibythayyil/bibythayyil/main/assets/fleet_performance_dashboard.png" width="900">
+</p>
+
+---
+
 ## Project Overview
 
 A logistics company wanted to analyze its fleet performance in terms of on-time deliveries, fuel efficiency, and cost per kilometre. This project builds an interactive Power BI dashboard using trip and vehicle data, incorporating DAX measures and AI-powered visuals to uncover operational insights and support route and fleet optimization decisions.
