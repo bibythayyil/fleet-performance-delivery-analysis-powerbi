@@ -10,6 +10,14 @@ A logistics company wanted to analyze its fleet performance in terms of on-time 
 
 ---
 
+## Dashboard Preview
+
+![Fleet Performance Dashboard](Dashboard.pdf)
+
+> Open `Dashboard.pdf` for a full visual preview of the dashboard without downloading Power BI.
+
+---
+
 ## Dataset
 
 **File:** `logistics_project_dataset.xlsx`
@@ -68,8 +76,9 @@ A logistics company wanted to analyze its fleet performance in terms of on-time 
 
 | File | Description |
 |---|---|
-| `Fleet_Performance_and_Delivery_Efficiency.pbix` | Power BI dashboard file (64 KB) |
+| `Fleet_Performance_and_Delivery_Efficiency.pbix` | Power BI dashboard file |
 | `logistics_project_dataset.xlsx` | Source dataset (Trip_Data and Vehicle_Master sheets) |
+| `Dashboard.pdf` | Dashboard visual preview |
 | `README.md` | Project documentation |
 
 ---
@@ -81,11 +90,13 @@ A logistics company wanted to analyze its fleet performance in terms of on-time 
 git clone https://github.com/bibythayyil/fleet-performance-delivery-analysis-powerbi
 ```
 
-2. Open `Fleet_Performance_and_Delivery_Efficiency.pbix` in **Microsoft Power BI Desktop**
+2. For a quick preview — open `Dashboard.pdf`
 
-3. If prompted to refresh data, update the source path to point to `logistics_project_dataset.xlsx` on your local machine
+3. For the full interactive dashboard — open `Fleet_Performance_and_Delivery_Efficiency.pbix` in **Microsoft Power BI Desktop**
 
-4. Explore the dashboard pages for fleet performance and delivery insights
+4. If prompted to refresh data, update the source path to point to `logistics_project_dataset.xlsx` on your local machine
+
+5. Explore the dashboard pages for fleet performance and delivery insights
 
 > **Note:** Power BI Desktop is free to download from [Microsoft](https://powerbi.microsoft.com/desktop/). AI-powered visuals (Key Influencers, Decomposition Tree) require a Power BI account sign-in.
 
